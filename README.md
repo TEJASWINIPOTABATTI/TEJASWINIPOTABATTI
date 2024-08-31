@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Tejaswini Potabatti
 
-🚀 **About Me**
+🚀 **About Me** <br/>
 I'm looking for job Web Development/ Software Development/ Full Stack Developer ....😎
 
 🌱 I’m currently learning Full Stack Java/ Javascript/ HTML/ CSS/ React js 💻📝🙇‍♂️
